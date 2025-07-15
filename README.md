@@ -14,10 +14,9 @@ Welcome to our Statistics for Data Science Group 4 GitHub repository! This repo 
 
 ## 👥 Contributors
 - Jack Hao      @howexg9
-- Kunwar Dhruv Sethi      
-- Eric Ramalheiro         
-- Faiza Qayoom            
-- Miguel Morales          
+- Duc Vu Hoang      
+- Joginder Singh         
+- Krishna Shah                      
 
 ## Link to Google Doc report 
 
