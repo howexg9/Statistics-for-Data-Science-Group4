@@ -13,8 +13,8 @@ Welcome to our Statistics for Data Science Group 4 GitHub repository! This repo 
     └── README.md         # About
 
 ## 👥 Contributors
-- Jack Hao      @howexg9
-- Duc Vu Hoang      
+- Jack Hao        @howexg9
+- Duc Vu Hoang    @jvuhoang8@gmail.com  
 - Joginder Singh         
 - Krishna Shah                      
 
