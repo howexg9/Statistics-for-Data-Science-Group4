@@ -18,5 +18,8 @@ Welcome to our Statistics for Data Science Group 4 GitHub repository! This repo 
 - Joginder Singh         
 - Krishna Shah                      
 
-## Link to Google Doc report 
+## Link to Google Doc report
+- **Proposal:**
 https://docs.google.com/document/d/1K71-zlxLO9sO8mK2tMrV-BzIWbAfvqSuY47LK9MCEwU/edit?tab=t.0
+- **Report:**
+https://docs.google.com/document/d/1DWro2vah8zoEMujXe0FusbTKl12U9aE21RV7l8JzNwI/edit?tab=t.0
